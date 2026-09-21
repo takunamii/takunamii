@@ -9,7 +9,7 @@ I turn Figma designs into responsive websites and build full-stack applications 
 
 ### 📊 GitHub Stats
 
-<img src="https://streak-stats.demolab.com?user=takunamii&theme=radical&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=takunamii&theme=dark&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
