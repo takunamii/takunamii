@@ -8,7 +8,7 @@ I turn Figma designs into responsive websites and build full-stack applications 
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=takunamii&show_icons=true&theme=radical&cache_seconds=86400" alt="GitHub Stats" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=takunamii&show_icons=true&theme=radical&cache_seconds=86400" alt="GitHub Stats" />
 
 <br />
 
@@ -16,7 +16,7 @@ I turn Figma designs into responsive websites and build full-stack applications 
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=takunamii&layout=compact&theme=radical&cache_seconds=86400" alt="Top Languages" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=takunamii&layout=compact&theme=radical&cache_seconds=86400" alt="Top Languages" />
 
 </div>
 
