@@ -4,21 +4,15 @@
 
 I turn Figma designs into responsive websites and build full-stack applications with modern web technologies. I care about **clean UI, accessibility, performance, and maintainable code**.
 
+
 <div align="center">
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=takunamii&show_icons=true&theme=radical&cache_seconds=86400" alt="GitHub Stats" />
-
-<br />
-
 <img src="https://streak-stats.demolab.com?user=takunamii&theme=radical&hide_border=true" alt="GitHub Streak" />
 
-<br />
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=takunamii&layout=compact&theme=radical&cache_seconds=86400" alt="Top Languages" />
-
 </div>
+
 
 ### Tech Stack
 
