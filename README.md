@@ -1,16 +1,34 @@
-## Hi there 👋
+### Hi, I'm takunami 👋
 
-<!--
-**takunamii/takunamii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend & Full-stack developer focused on clean interfaces and working products.
 
-Here are some ideas to get you started:
+I build responsive landing pages from Figma and full-stack applications with modern web technologies. I care about accessibility, performance, and maintainable code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+
+`HTML` `CSS` `JavaScript` `TypeScript` `React` `Node.js` `Express` `SQLite` `Git`
+
+### Currently
+
+Open to freelance opportunities — landing pages, small web apps, and full-stack projects.
+
+[LeetCode](https://leetcode.com/u/takunami) · [Codewars](https://www.codewars.com/users/takunamii)
+
+
+
+
+### Привет, я takunami 👋
+
+Frontend & Full-stack разработчик. Делаю чистые интерфейсы и рабочие продукты.
+
+Верстаю адаптивные лендинги по Figma и собираю full-stack приложения. Слежу за доступностью, производительностью и качеством кода. 
+
+### Навыки
+
+`HTML` `CSS` `JavaScript` `TypeScript` `React` `Node.js` `Express` `SQLite` `Git`
+
+### Сейчас
+
+Открыт к фриланс-проектам — лендинги, небольшие веб-приложения и full-stack задачи.
+
+[LeetCode](https://leetcode.com/u/takunami) · [Codewars](https://www.codewars.com/users/takunamii)
