@@ -4,7 +4,7 @@
 
 I turn Figma designs into responsive websites and build full-stack applications with modern web technologies. I care about **clean UI, accessibility, performance, and maintainable code**.
 
-![GitHub Streak](https://streak-stats.demolab.com?user=takunamii&theme=dark&hide_border=true)
+<div align="center">![GitHub Streak](https://streak-stats.demolab.com?user=takunamii&theme=dark&hide_border=true)</div>
 
 ### Tech Stack
 
