@@ -6,7 +6,7 @@ I turn Figma designs into responsive websites and build full-stack applications 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=takunamii&show_icons=true&theme=dark&hide=issues,contribs&count_private=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=takunamii&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=takunamii&theme=dark&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takunamii&layout=compact&theme=dark&langs_count=10)
 
